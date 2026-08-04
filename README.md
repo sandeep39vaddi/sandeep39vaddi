@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">👩‍💻  About Me <br>- 🎓 MS in Software Engineering — University of Alabama at Birmingham<br>- 💼 Former Software Engineer @ Capgemini<br>- 🌎 Based in Birmingham, Alabama<br>- ☁ Passionate about Cloud Computing, Distributed Systems & Backend Engineering<br>- 🚀 Interested in Full Stack Development, AI Applications and System Design<br>- 📚 Currently learning Kubernetes, Microservices and High Performance Computing</p>
+<p data-importer="text" align="left">👩‍💻  About Me <br>- 🎓 MS in Computer Science — University of Alabama at Birmingham<br>- 💼 Former Software Engineer @ Capgemini<br>- 🌎 Based in Birmingham, Alabama<br>- ☁ Passionate about Cloud Computing, Distributed Systems & Backend Engineering<br>- 🚀 Interested in Full Stack Development, AI Applications and System Design<br>- 📚 Currently learning Kubernetes, Microservices and High Performance Computing</p>
 
 ###
 
